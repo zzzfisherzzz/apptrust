@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="536px" height="485px" viewBox="0 0 536 485" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>53D3BBAC-8F94-4876-BE1C-7263F061D0BF</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M266.03845,485 C402.736019,485 603.58621,440.362134 513.551294,237.820213 C423.516378,35.2782928 465.274276,0 328.576707,0 C191.879138,0 97.3117951,35.2782928 18.5256065,237.820213 C-60.2605821,440.362134 129.340881,485 266.03845,485 Z" id="path-1"></path>
+        <circle id="path-3" cx="375.5" cy="96.5" r="34.5"></circle>
+        <filter x="-51.4%" y="-48.6%" width="202.9%" height="202.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="11.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.195340806 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D0ECF4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M457.945224,379.424544 C469.939578,381.512063 479,391.049683 479,402.5 C479,415.478692 467.359403,426 453,426 C449.997674,426 447.114204,425.540048 444.431138,424.693851 C436.114451,430.445659 424.653904,434 412,434 C399.846451,434 388.79375,430.721189 380.570054,425.365764 C378.446814,425.781704 376.249696,426 374,426 C355.774603,426 341,411.673112 341,394 C341,376.326888 355.774603,362 374,362 C374.323804,362 374.64652,362.004522 374.968082,362.013505 C383.345171,354.119732 396.813121,349 412,349 C436.645755,349 456.764563,362.483242 457.945224,379.424544 Z" id="path-6"></path>
+        <filter x="-40.6%" y="-64.7%" width="194.2%" height="252.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="9" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.23644135 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M228.847688,221.437356 C217.476025,231.552405 200.264022,238 181,238 C161.539707,238 144.173459,231.420354 132.806555,221.127046 C129.79704,221.699701 126.685131,222 123.5,222 C97.2664744,222 76,201.628956 76,176.5 C76,151.371044 97.2664744,131 123.5,131 C124.436031,131 125.365739,131.025935 126.288382,131.077095 C136.72758,116.748609 157.312489,107 181,107 C213.637559,107 240.385019,125.507133 242.819434,149.001332 C263.383038,149.172908 280,165.895904 280,186.5 C280,207.210678 263.210678,224 242.5,224 C237.68315,224 233.078417,223.091823 228.847688,221.437356 Z" id="path-8"></path>
+        <filter x="-27.5%" y="-42.0%" width="163.7%" height="199.2%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="9" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.23644135 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-407.000000, -849.000000)">
+            <g id="Group-18" transform="translate(0.000000, -43.000000)">
+                <g id="2" transform="translate(0.000000, 817.000000)">
+                    <g id="illustration2" transform="translate(407.000000, 75.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Oval" fill="#4A90E2" xlink:href="#path-1"></use>
+                        <polygon id="Path-2" fill="#FFFFFF" opacity="0.0516183036" mask="url(#mask-2)" transform="translate(372.884684, 131.334174) rotate(-19.000000) translate(-372.884684, -131.334174) " points="148.311925 -112.181732 407.722517 433.345185 597.457444 325.708741 461.058314 -170.676836"></polygon>
+                        <g id="Oval-8" mask="url(#mask-2)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#F1B464" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Group-6-Copy" mask="url(#mask-2)">
+                            <g transform="translate(261.000000, 238.000000)">
+                                <rect id="Rectangle-11" fill="#726F6F" x="0" y="0" width="159" height="376"></rect>
+                                <rect id="Rectangle-12" fill="url(#linearGradient-5)" x="9" y="184" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy" fill="url(#linearGradient-5)" x="57" y="184" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-2" fill="url(#linearGradient-5)" x="106" y="184" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-6" fill="url(#linearGradient-5)" x="9" y="98" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-7" fill="url(#linearGradient-5)" x="57" y="98" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-8" fill="url(#linearGradient-5)" x="106" y="98" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-9" fill="url(#linearGradient-5)" x="106" y="12" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-10" fill="url(#linearGradient-5)" x="57" y="12" width="41" height="80"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-6" mask="url(#mask-2)">
+                            <g transform="translate(158.000000, 144.000000)">
+                                <rect id="Rectangle-11" fill="#B0ACB0" x="0" y="0" width="159" height="376"></rect>
+                                <rect id="Rectangle-12" fill="url(#linearGradient-5)" x="9" y="184" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy" fill="url(#linearGradient-5)" x="59" y="184" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-2" fill="url(#linearGradient-5)" x="106" y="184" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-3" fill="url(#linearGradient-5)" x="106" y="270" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-4" fill="url(#linearGradient-5)" x="59" y="270" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-5" fill="url(#linearGradient-5)" x="9" y="270" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-6" fill="url(#linearGradient-5)" x="9" y="98" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-7" fill="url(#linearGradient-5)" x="59" y="98" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-8" fill="url(#linearGradient-5)" x="106" y="98" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-9" fill="url(#linearGradient-5)" x="106" y="12" width="41" height="80"></rect>
+                                <rect id="Rectangle-12-Copy-10" fill="url(#linearGradient-5)" x="59" y="12" width="41" height="80"></rect>
+                            </g>
+                        </g>
+                        <g id="Combined-Shape" mask="url(#mask-2)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        </g>
+                        <g id="Combined-Shape" mask="url(#mask-2)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
